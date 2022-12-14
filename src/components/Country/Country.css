@@ -1,0 +1,10 @@
+.countryStyle {
+    border: 3px solid red;
+    margin: 10px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+}
+
+.countryStyle img {
+    width: 200px;
+}

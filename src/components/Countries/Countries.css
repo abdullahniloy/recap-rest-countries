@@ -1,0 +1,10 @@
+.gridClass {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 5px;
+}
